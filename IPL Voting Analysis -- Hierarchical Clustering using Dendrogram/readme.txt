@@ -24,4 +24,4 @@ Outcome :
 
 I could see that many of the members in the initial clusters are from same team,which meant they
 discussed their votes before predicting and voted same for most number of matches 
-( Against the tournament rules :D)
+(Against the tournament rules :D)
